@@ -1,4 +1,4 @@
-def delete(lst,data):
+def remove(lst,data):
     for i in range(len(lst)):
         if data==lst[i]:
             lst1=lst[:i]
