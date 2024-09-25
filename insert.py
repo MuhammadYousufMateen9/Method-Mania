@@ -1,4 +1,4 @@
-def ins(lst,data,pos):
+def insert(lst,data,pos):
 
     #changing datatype from int to list
     data=[data]
